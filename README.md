@@ -1,4 +1,5 @@
-# Faithful-by-dima09-32.64x
+# Faithful-by-dima09-32.64x <img width="128" height="128" alt="изображение" src="https://github.com/user-attachments/assets/ad42f38b-b639-45f3-981a-1d0cb5b9a7da" />
+
 Это НЕ официальный текстурпак, это любительская сборка созданная из двух текстурпаков оригинального Faithful: Classic-Faithful-32x и Faithful-64x .
 
 Ссылка на скачивание оригинала: https://faithfulpack.net/downloads#Classic-Faithful-32x .
