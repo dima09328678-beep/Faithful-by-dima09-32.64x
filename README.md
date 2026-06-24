@@ -7,6 +7,9 @@
 
 <img width="776" height="776" alt="изображение" src="https://github.com/user-attachments/assets/901b0ed2-2cdc-4b25-abb8-85b33dc8dc9a" />
 
+<img width="1551" height="900" alt="изображение" src="https://github.com/user-attachments/assets/b2d79603-887a-40d8-a32d-e2ab163e925a" />
+
+
 
 ## Установка:
 Текстурпак создан для версии 26.2.
