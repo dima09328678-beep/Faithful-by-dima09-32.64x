@@ -3,4 +3,4 @@
 
 Ссылка на скачивание оригинала: https://faithfulpack.net/downloads#Classic-Faithful-32x .
 
-За основу взят Classic-Faithful-32x, но частично перенесены (item)-ы из Faithful-64x, и по мелочи.
+В моём текстурпаке за основу взят Classic-Faithful-32x, но частично перенесены (item)-ы из Faithful-64x, и по мелочи.
